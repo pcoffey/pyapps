@@ -41,7 +41,7 @@ What you will do and learn:
 * Live templates  
 * File I/O  
 * OS Independent path management  
-* __name__  
+* __ name __  
 * Order independent methods  
 * for-in loops  
 * doc strings  
